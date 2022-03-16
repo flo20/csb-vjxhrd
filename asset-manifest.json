@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://flo20.github.io/csb-vjxhrd/static/css/main.c4c4f929.chunk.css",
+    "main.js": "https://flo20.github.io/csb-vjxhrd/static/js/main.884bda54.chunk.js",
+    "main.js.map": "https://flo20.github.io/csb-vjxhrd/static/js/main.884bda54.chunk.js.map",
+    "runtime-main.js": "https://flo20.github.io/csb-vjxhrd/static/js/runtime-main.232d582a.js",
+    "runtime-main.js.map": "https://flo20.github.io/csb-vjxhrd/static/js/runtime-main.232d582a.js.map",
+    "static/js/2.059d8cd3.chunk.js": "https://flo20.github.io/csb-vjxhrd/static/js/2.059d8cd3.chunk.js",
+    "static/js/2.059d8cd3.chunk.js.map": "https://flo20.github.io/csb-vjxhrd/static/js/2.059d8cd3.chunk.js.map",
+    "index.html": "https://flo20.github.io/csb-vjxhrd/index.html",
+    "static/css/main.c4c4f929.chunk.css.map": "https://flo20.github.io/csb-vjxhrd/static/css/main.c4c4f929.chunk.css.map",
+    "static/js/2.059d8cd3.chunk.js.LICENSE.txt": "https://flo20.github.io/csb-vjxhrd/static/js/2.059d8cd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.232d582a.js",
+    "static/js/2.059d8cd3.chunk.js",
+    "static/css/main.c4c4f929.chunk.css",
+    "static/js/main.884bda54.chunk.js"
+  ]
+}
